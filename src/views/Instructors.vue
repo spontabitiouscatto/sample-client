@@ -2,7 +2,7 @@
     <div class="instructors-container">
         <h1>Instructors</h1>
         <div class="instructor-card" v-for="instructor in instructors" :key="instructor._id">
-            <img src="../../../greenoverwich_no_avatar.png" alt="Avatar" class="avatar" />
+            <img src="../assets/greenoverwich_no_avatar.png" alt="Avatar" class="avatar" />
             <div class="details">
                 <router-link :to="'/users/' + instructor._id">
                     <h2>{{ instructor.firstname }} {{ instructor.lastname }}</h2>

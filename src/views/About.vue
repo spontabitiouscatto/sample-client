@@ -22,7 +22,7 @@ export default {
 .about-container {
     position: relative;
     height: 100vh;
-    background-image: url('../../../greenwich.png');
+    background-image: url('../assets/greenwich.png');
     /* Replace with your image path */
     background-size: cover;
     background-position: center;

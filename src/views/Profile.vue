@@ -2,7 +2,7 @@
     <div class="ui container profile">
         <div class="ui centered card">
             <div class="image">
-                <img src="../../../greenoverwich_no_avatar.png" alt="User Avatar" class="ui circular image" />
+                <img src="../assets/greenoverwich_no_avatar.png" alt="User Avatar" class="ui circular image" />
             </div>
             <div class="content">
                 <div class="header">

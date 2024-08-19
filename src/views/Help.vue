@@ -2,7 +2,7 @@
     <div class="admins-container">
         <h1>Admins</h1>
         <div class="admin-card" v-for="admin in admins" :key="admin._id">
-            <img src="../../../greenoverwich_no_avatar.png" alt="Avatar" class="avatar" />
+            <img src="../assets/greenoverwich_no_avatar.png" alt="Avatar" class="avatar" />
             <div class="details">
                 <router-link :to="'/users/' + admin._id">
                     <h2>{{ admin.firstname }} {{ admin.lastname }}</h2>

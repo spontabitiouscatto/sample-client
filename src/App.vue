@@ -5,7 +5,7 @@
         <div class="ui large secondary inverted pointing menu compact">
           <!-- logo -->
           <router-link to="/" class="item">
-            <img src="../../greenwich university logo.png" alt="Logo" class="ui mini image" />
+            <img src="./assets/greenwich university logo.png" alt="Logo" class="ui mini image" />
           </router-link>
 
           <!-- links -->
