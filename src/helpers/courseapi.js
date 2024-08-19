@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 //setting base url for endpoints
-const backEnd = "https://sample-server-viij.onrender.com/courses/";
+const backEnd = "https://sample-server-1.onrender.com/courses/";
 //retrieve a 'promise' from route
 //input = data from body/url
 
